@@ -1,5 +1,5 @@
 {
-  "name": "ember-velcro",
+  "name": "@teriyakibomb/ember-velcro",
   "version": "2.2.0",
   "description": "Ember Velcro sticks one element to another with Floating UI.",
   "keywords": [

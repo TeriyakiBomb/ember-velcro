@@ -1,6 +1,8 @@
 Ember Velcro
 ==============================================================================
 
+This is a fork of ember-velcro
+
 Ember Velcro sticks one element to another with [Floating UI](https://floating-ui.com/), it can be used as a modifier or a component.
 
 Several of Floating UI's functions and [middleware](https://floating-ui.com/docs/middleware) are used to create an experience out of the box that is useful and expected.
