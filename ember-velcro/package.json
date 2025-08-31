@@ -6,12 +6,12 @@
     "ember-addon"
   ],
   "bugs": {
-    "url": "https://github.com/CrowdStrike/ember-velcro/issues"
+    "url": "https://github.com/TeriyakiBomb/ember-velcro/issues"
   },
-  "homepage": "https://github.com/CrowdStrike/ember-velcro#readme",
+  "homepage": "https://github.com/TeriyakiBomb/ember-velcro#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://CrowdStrike@github.com/CrowdStrike/ember-velcro.git",
+    "url": "git+https://github.com/TeriyakiBomb/ember-velcro.git",
     "directory": "ember-velcro"
   },
   "license": "MIT",
